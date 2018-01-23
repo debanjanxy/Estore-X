@@ -1,4 +1,4 @@
-# Webstore-X
+# Estore-X
 An e-commerce system
 
 Installation:
